@@ -1,4 +1,1 @@
-Alteração de teste
-
-
-linha de teste....
+Este README serve para testes.
